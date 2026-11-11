@@ -6,16 +6,28 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <channel>
         <title>AwesomeCalendar</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Mon, 28 Sep 2026 15:59:01 +0000</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Wed, 11 Nov 2026 12:36:29 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description sparkle:format="markdown"><![CDATA[This Awesome Calendar update is signed with the Awesome Pixels Developer ID identity, notarized by Apple, and verified by Sparkle before installation.
 
 Installed copies can update through **Awesome Calendar → Check for Updates…**. The public update repository contains distributable binaries only; the application source and release credentials remain private.
 ]]></description>
-            <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.3/AwesomeCalendar-1.0.3.dmg" length="4101808" type="application/octet-stream" sparkle:edSignature="xm7ZUOjTuSS/8zNs+bd5jEXiAgMDRij5FyGJBlv4fP0oGbYJd4qnjvmN4iJTFXCyj+/Npz/fSveoW19k68PyCA=="/>
+            <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.4/AwesomeCalendar-1.0.4.dmg" length="4892883" type="application/octet-stream" sparkle:edSignature="oEGWbpZpCU7oBGjLSA5a7wfSFhIwMI/AGY7WWqpPEvcNpfwaTeOjFaK3/0mDaknu6MMaipSSM/RiUO9NGyr+Ag=="/>
+            <sparkle:deltas>
+                <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.4/AwesomeCalendar8-7.delta" sparkle:deltaFrom="7" length="1078314" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iXlN8wWdzU94MKm9UdDH1JMjQVPfN2vSuw7t1jC8mU9IRrzaOMJMZiRdlJDslYiEnyI8I098PR+a3npbn/7EAA=="/>
+                <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.4/AwesomeCalendar8-6.delta" sparkle:deltaFrom="6" length="1116710" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1MBduTdhbEVTaEqDH81GoSEZdzXDpIkyXcWLOdDuAKrLZ8TjcuYCbnelfLIXgOYXgUIhq0YdFRBY298YRuC/AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.3</title>
+            <pubDate>Mon, 28 Sep 2026 15:59:01 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.4/AwesomeCalendar-1.0.3.dmg" length="4101808" type="application/octet-stream" sparkle:edSignature="xm7ZUOjTuSS/8zNs+bd5jEXiAgMDRij5FyGJBlv4fP0oGbYJd4qnjvmN4iJTFXCyj+/Npz/fSveoW19k68PyCA=="/>
             <sparkle:deltas>
                 <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.3/AwesomeCalendar7-6.delta" sparkle:deltaFrom="6" length="340830" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980432" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="VT3UUicoWwcKkJBlDIpOhJD3wEU2qL0NkAyOpSv1TZbCkkoUEdAlM4QrsHTTxh18qfTwwjCQkiNHBIz7ftDQAQ=="/>
             </sparkle:deltas>
@@ -26,11 +38,11 @@ Installed copies can update through **Awesome Calendar → Check for Updates…*
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.3/AwesomeCalendar-1.0.2.dmg" length="4097482" type="application/octet-stream" sparkle:edSignature="4eTMImoLNtY0q1SLVSpIF88rET7A03c2Yep6mLDk7ghCwa50TY8zlYu2/z2GUaJJrAjXEiTJOkcI9Q+yUgGtBQ=="/>
+            <enclosure url="https://github.com/Awesome-Pixels/awesome-calendar-updates/releases/download/v1.0.4/AwesomeCalendar-1.0.2.dmg" length="4097482" type="application/octet-stream" sparkle:edSignature="4eTMImoLNtY0q1SLVSpIF88rET7A03c2Yep6mLDk7ghCwa50TY8zlYu2/z2GUaJJrAjXEiTJOkcI9Q+yUgGtBQ=="/>
         </item>
     </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: FfqW5BOxhCgGGTx1JatoIMqj35R7Z7+G4c7mTro+QYdcJSfKyDFoliE4TYHxQspl9vW9ze4sMxm7eg0POFHjAA==
-length: 2629
+edSignature: tTaODM76urS+xgFmcDXoW/74bATuYCstlHd5HeAKtUoqPtz/Ahrg1pM8yf8FU+H+68TGFlWyDQC3AyV+sUOWBw==
+length: 4176
 -->
